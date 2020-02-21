@@ -1,0 +1,22 @@
+#frameA, #frameB, #frameC{
+    width: 50vw;
+}
+#frameA{
+    background-color: green;
+}
+#frameB{
+    background-color: red;
+}
+#frameC{
+    background-color: yellow;
+}
+.visible{
+    display: block;
+}
+.invisible{
+    display: none;
+}
+.button:hover{
+    cursor: pointer;
+}
+
